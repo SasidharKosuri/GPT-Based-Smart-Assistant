@@ -41,7 +41,7 @@ This is a Python-based voice assistant that uses OpenAI's GPT models to generate
    pip install -r requirements.txt
 
 3. **Add Your OpenAI API Key**:
-   Open apikey.py.
+   Open apikey.py./n
    Replace the placeholder with your OpenAI API key:
    ```bash
    api_data = 'your-api-key'
@@ -50,7 +50,7 @@ This is a Python-based voice assistant that uses OpenAI's GPT models to generate
 ```bash
    python app.py
 ```
-\n
+/n
 
 ## Usage
 - Speak a question or command into your microphone.
