@@ -49,10 +49,10 @@ This is a Python-based voice assistant that uses OpenAI's GPT models to generate
    python app.py
 
 #**Usage**
-Speak a question or command into your microphone.
-The assistant will process your input, generate a response, and speak it aloud.
-Supported commands include general questions and actions like:
-"What is the capital of France?"
-"Open YouTube"
-"Bye" (to exit the program).
+-Speak a question or command into your microphone.
+-The assistant will process your input, generate a response, and speak it aloud.
+-Supported commands include general questions and actions like:
+-"What is the capital of France?"
+-"Open YouTube"
+-"Bye" (to exit the program).
 
