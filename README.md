@@ -59,3 +59,13 @@ This is a Python-based voice assistant that uses OpenAI's GPT models to generate
      - `Open YouTube`
      - `Bye (to exit the program).`
 
+### ***Example Interaction***
+- User: "What is the capital of France?"
+   - `Assistant: "The capital of France is Paris."`
+
+- User: "Open YouTube"
+   - `Opens YouTube in the default browser`
+
+- User: "Bye"
+  - `Program exits`
+
