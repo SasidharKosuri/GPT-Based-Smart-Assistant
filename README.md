@@ -41,18 +41,21 @@ This is a Python-based voice assistant that uses OpenAI's GPT models to generate
    pip install -r requirements.txt
 
 3. **Add Your OpenAI API Key**:
-   Open apikey.py.
+   Open apikey.py.\n
    Replace the placeholder with your OpenAI API key:
+   ```bash
    api_data = 'your-api-key'
    
 4.**Run the Application**:
+```bash
    python app.py
+```
 
 ### **Usage**
 - Speak a question or command into your microphone.
 - The assistant will process your input, generate a response, and speak it aloud.
-- Supported commands include general questions and actions like:
-- "What is the capital of France?"
-- "Open YouTube"
-- "Bye" (to exit the program).
+- **Supported commands include general questions and actions like**:
+     - `What is the capital of France?`
+     - `Open YouTube`
+     - `Bye (to exit the program).`
 
